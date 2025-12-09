@@ -1,0 +1,263 @@
+age,fare,embarked,cabin,pclass,sex,sibsp,parch,ticket
+38,7.8958,S,missing,3,male,0,0,349249
+21,21,S,missing,2,female,0,1,S.O./P.P. 2
+42,27,S,missing,2,male,1,0,243847
+28,14.5,S,missing,3,male,0,0,364498
+25,31.5,S,missing,2,male,0,0,C.A. 31029
+4,16.7,S,G6,3,female,1,1,PP 9549
+48,26.55,S,E12,1,male,0,0,19952
+52,30.5,S,C104,1,male,0,0,113786
+57,13,S,missing,2,male,0,0,244346
+28,8.1125,S,missing,3,male,0,0,65306
+28,15.05,C,missing,2,male,0,0,SC/PARIS 2131
+39,7.2292,C,missing,3,male,0,2,2675
+0.6667,14.5,S,missing,2,male,1,1,250649
+18,9.8417,S,missing,3,female,0,0,4138
+21,262.375,C,B57 B59 B63 B66,1,female,2,2,PC 17608
+24,10.5,S,missing,2,male,0,0,C.A. 29566
+45,26.25,S,missing,2,female,1,1,F.C.C. 13529
+40,31,C,A31,1,male,0,0,112277
+55,27.7208,C,missing,1,female,0,0,112377
+33,8.05,S,missing,3,male,0,0,A./5. 3338
+22,7.25,S,missing,3,male,0,0,A/5 21172
+13,31.3875,S,missing,3,male,4,2,347077
+28,7.8542,S,missing,3,male,0,0,347464
+14,120,S,B96 B98,1,female,1,2,113760
+6,15.2458,C,missing,3,male,1,1,2678
+42,13,S,missing,2,female,0,0,236852
+19,10.5,S,missing,2,male,0,0,SW/PP 751
+35,7.8958,C,missing,3,male,0,0,349213
+28,15.5,Q,missing,3,male,0,0,36568
+14,7.8542,S,missing,3,female,0,0,350406
+4,13.4167,C,missing,3,female,0,1,349256
+16,57.9792,C,B18,1,female,0,1,111361
+24,13,S,F33,2,female,0,0,248733
+45.5,28.5,S,C124,1,male,0,0,113043
+51,77.9583,S,D11,1,female,1,0,13502
+28,7.575,S,missing,3,male,0,0,LP 1588
+33,7.8958,S,missing,3,male,0,0,349257
+28,47.1,S,missing,1,male,0,0,113059
+28,7.225,C,missing,3,male,0,0,2676
+24,8.05,S,missing,3,male,0,0,342441
+28,7.25,S,missing,3,male,0,0,SOTON/O.Q. 3101314
+54,26,S,missing,2,male,0,0,28403
+58,113.275,C,D48,1,male,0,2,35273
+3,18.75,S,missing,2,male,1,1,29106
+25,7.925,S,missing,3,female,1,0,STON/O2. 3101271
+2,39.6875,S,missing,3,male,4,1,3101295
+34.5,6.4375,C,missing,3,male,0,0,2683
+45,63.3583,C,D10 D12,1,female,0,1,PC 17759
+0.4167,8.5167,C,missing,3,male,0,1,2625
+28,8.7125,S,missing,3,male,0,0,3410
+17,10.5,S,missing,2,female,0,0,SO/C 14885
+28,7.8875,S,missing,3,male,0,0,3470
+24,7.8958,S,missing,3,male,0,0,349233
+29,21.075,S,missing,3,female,0,4,349909
+26,8.05,S,missing,3,male,0,0,341826
+28,8.05,S,missing,3,male,0,0,A./5. 3235
+18,53.1,S,D30,1,female,1,0,113773
+40,9.475,S,missing,3,female,1,0,7546
+22,7.75,Q,missing,3,female,0,0,370373
+17,12,C,missing,2,female,0,0,SC 1748
+20,9.5,S,missing,3,male,0,0,345769
+45,26.55,S,B38,1,male,0,0,113050
+9,27.9,S,missing,3,female,3,2,347088
+7,15.2458,C,missing,3,male,1,1,2650
+2,27.9,S,missing,3,female,3,2,347088
+18,13,S,missing,2,female,1,1,250650
+24,13,S,missing,2,male,0,0,233866
+28,7.225,C,missing,3,male,0,0,2684
+21,7.925,S,missing,3,male,0,0,STON/O 2. 3101294
+18,7.8792,Q,missing,3,female,0,0,330963
+29,23,S,missing,2,female,0,2,29103
+35,7.05,S,missing,3,male,0,0,SOTON/O.Q. 3101310
+28,30,S,D45,1,male,0,0,16988
+51,7.75,S,missing,3,male,0,0,347064
+28,7.75,Q,missing,3,female,0,0,370368
+32,76.2917,C,D15,1,female,0,0,11813
+18,10.5,S,missing,2,male,0,0,C.A. 15185
+56,83.1583,C,C50,1,female,0,1,11767
+28,15.5,Q,missing,3,female,1,0,370371
+28,7.75,Q,missing,3,male,0,0,367228
+24,60,S,C31,1,male,1,0,13695
+5,12.475,S,missing,3,female,0,0,364516
+31,10.5,S,missing,2,male,0,0,C.A. 18723
+42,26.2875,S,E24,1,male,0,0,PC 17476
+28,23.25,Q,missing,3,female,2,0,367226
+28,110.8833,C,missing,1,female,0,0,17421
+32,73.5,S,missing,2,male,2,0,S.O.C. 14879
+47,7.25,S,missing,3,male,0,0,A/5 3902
+28,0,S,missing,2,male,0,0,239853
+28,56.4958,S,missing,3,male,0,0,1601
+28,7.225,C,missing,3,male,0,0,2624
+28,7.225,C,missing,3,male,0,0,2647
+42,8.6625,S,missing,3,male,0,0,315088
+18,14.4542,C,missing,3,male,1,0,2680
+28,69.55,S,missing,3,male,1,9,CA. 2343
+46,79.2,C,B82 B84,1,male,0,0,PC 17593
+14,9.225,S,missing,3,male,0,0,7538
+28,24.15,Q,missing,3,female,1,0,371110
+21,11.5,S,missing,2,male,1,0,28134
+38,71.2833,C,C85,1,female,1,0,PC 17599
+14,65,S,missing,2,male,0,0,220845
+18,7.8542,S,missing,3,male,1,1,350404
+33,15.85,S,missing,3,female,3,0,3101278
+30,15.55,S,missing,3,female,1,0,349910
+30,9.5,S,missing,3,male,0,0,345774
+40,26,S,missing,2,male,1,0,2926
+0.9167,151.55,S,C22 C26,1,male,1,2,113781
+28,8.4583,Q,missing,3,male,0,0,330877
+35,8.05,S,missing,3,male,0,0,373450
+47,42.4,S,missing,1,male,0,0,113796
+28,50,S,A32,1,male,0,0,113767
+31,28.5375,C,C53,1,male,0,0,2543
+18,73.5,S,missing,2,male,0,0,S.O.C. 14879
+49,26,S,missing,1,male,0,0,19924
+22,10.5167,S,missing,3,female,0,0,7552
+47,15,S,missing,2,male,0,0,237565
+17,73.5,S,missing,2,male,0,0,S.O.C. 14879
+57,146.5208,C,B78,1,male,1,0,PC 17569
+35,26,S,missing,2,male,0,0,239865
+24,65,S,missing,2,female,1,2,220845
+48,50.4958,C,B10,1,male,0,0,PC 17591
+13,20.25,S,missing,3,male,0,2,C.A. 2673
+28,27.7208,C,missing,1,male,0,0,PC 17605
+21,61.3792,C,missing,1,male,0,1,PC 17597
+40.5,15.1,S,missing,3,male,0,0,C.A. 6212
+28,7.75,Q,missing,3,male,0,0,7935
+28,7.8958,S,missing,3,male,0,0,349225
+27,6.975,S,missing,3,male,0,0,347089
+36,17.4,S,missing,3,female,1,0,345572
+27,15.0333,C,missing,2,male,0,0,SC/PARIS 2168
+28,7.8958,S,missing,3,male,0,0,349223
+28,27.7208,C,missing,1,male,0,0,PC 17612
+47,10.5,S,missing,2,male,0,0,C.A. 30769
+17,110.8833,C,C70,1,male,0,2,17421
+80,30,S,A23,1,male,0,0,27042
+22,7.8958,S,missing,3,male,0,0,349206
+62,9.6875,Q,missing,2,male,0,0,240276
+28,7.6292,Q,missing,3,female,0,0,330909
+23,7.05,S,missing,3,male,0,0,SOTON/O.Q. 3101309
+28,8.1375,Q,missing,3,female,0,0,330935
+21,73.5,S,missing,2,male,0,0,S.O.C. 14879
+48,79.2,C,B41,1,female,1,1,13567
+21,8.4333,S,missing,3,male,0,0,8475
+19,8.05,S,missing,3,male,0,0,323951
+71,49.5042,C,missing,1,male,0,0,PC 17609
+28,30.5,S,C106,1,male,0,0,19988
+0.75,19.2583,C,missing,3,female,2,1,2666
+28,7.8958,S,missing,3,male,0,0,349215
+1,41.5792,C,missing,2,female,1,2,SC/Paris 2123
+28,26.55,S,missing,1,male,0,0,113791
+3,21.075,S,missing,3,female,3,1,349909
+64,75.25,C,D37,1,male,1,0,110813
+22,10.5,S,missing,2,male,0,0,W./C. 14260
+7,26.25,S,missing,2,female,0,2,F.C.C. 13529
+29,7.8958,C,missing,3,male,0,0,349240
+28,7.2292,C,missing,3,male,0,0,2700
+76,78.85,S,C46,1,female,1,0,19877
+17,57,S,B20,1,female,1,0,17474
+30,7.225,C,missing,3,male,0,0,2694
+15,7.2292,C,missing,3,male,1,1,2695
+34.5,7.8292,Q,missing,3,male,0,0,330911
+47,25.5875,S,E58,1,male,0,0,5727
+28,15.0458,C,D,2,male,0,0,237735
+23,63.3583,C,D10 D12,1,male,0,1,PC 17759
+25,7.7417,Q,missing,3,male,0,0,36864
+16,8.5167,C,missing,3,female,1,1,2625
+28,7.75,Q,missing,3,male,0,0,AQ/4 3130
+19,0,S,missing,3,male,0,0,LINE
+39,7.925,S,missing,3,male,0,0,3101296
+24.5,8.05,S,missing,3,male,0,0,342826
+28,10.7083,Q,missing,2,male,0,0,240261
+42,42.5,S,B11,1,male,0,0,113038
+28,7.7792,Q,missing,3,female,0,0,330968
+24,9.5,S,missing,3,male,0,0,345781
+53,51.4792,S,C101,1,female,2,0,11769
+57,12.35,Q,missing,2,male,0,0,219533
+20,8.05,S,missing,3,male,0,0,A/5. 2151
+18,60,S,C31,1,female,1,0,13695
+20,23,S,missing,2,female,2,1,29105
+19,91.0792,C,B49,1,female,1,0,11967
+35,512.3292,C,missing,1,female,0,0,PC 17755
+28,7.75,Q,missing,3,male,0,0,384461
+39,29.125,Q,missing,3,female,0,5,382652
+16,26,S,missing,2,male,0,0,239865
+30,13,S,missing,2,female,0,0,237249
+28,14.4542,C,missing,3,female,1,0,2665
+54,59.4,C,missing,1,female,1,0,PC 17603
+28,7.2292,C,missing,3,male,0,0,2677
+48,13,S,missing,2,male,0,0,234360
+16,9.2167,S,missing,3,male,0,0,7534
+40,27.7208,C,missing,1,male,0,0,PC 17601
+39,31.275,S,missing,3,female,1,5,347082
+28,82.1708,C,missing,1,female,1,0,PC 17604
+57,164.8667,S,missing,1,male,1,1,36928
+36,26.2875,S,E25,1,male,0,0,PC 17473
+28,22.3583,C,F E69,3,female,1,1,2668
+43,26.25,S,missing,2,male,1,1,F.C.C. 13529
+25,26,S,missing,2,female,0,1,230433
+23,9.225,S,missing,3,male,0,0,7267
+34,26,S,missing,2,male,1,0,244367
+24,73.5,S,missing,2,male,2,0,S.O.C. 14879
+28,8.05,S,missing,3,male,0,0,SOTON/OQ 392082
+22,8.05,S,missing,3,male,0,0,14973
+58,146.5208,C,B80,1,female,0,0,PC 17569
+50,211.5,C,C80,1,male,1,1,113503
+19,7.775,S,missing,3,male,0,0,347069
+43,21,S,missing,2,male,0,1,S.O./P.P. 2
+3,31.3875,S,missing,3,male,4,2,347077
+17,7.8958,S,missing,3,male,0,0,349232
+34,8.05,S,missing,3,male,0,0,363294
+28,7.8792,Q,missing,3,female,0,0,330959
+28,35.5,S,C52,1,male,0,0,19947
+23,13,S,missing,2,male,0,0,233639
+51,8.05,S,missing,3,male,0,0,21440
+28,33,S,missing,2,female,0,0,248727
+52,13,S,missing,2,male,0,0,250647
+34,26,S,missing,2,male,1,0,226875
+55.5,8.05,S,missing,3,male,0,0,A.5. 11206
+32.5,30.0708,C,missing,2,male,1,0,237736
+28,7.05,S,missing,3,male,0,0,SOTON/O.Q. 3101308
+22,66.6,S,C2,1,female,1,0,113776
+22,13.9,S,missing,3,female,1,0,347072
+14,30.0708,C,missing,2,female,1,0,237736
+31,134.5,C,E39 E41,1,female,0,0,16966
+36,39,S,F4,2,female,0,3,230136
+36,15.55,S,missing,3,male,1,0,349910
+28,15.5,Q,missing,3,female,1,0,367230
+8,26,S,missing,2,female,1,1,26360
+4,22.025,S,missing,3,female,0,2,315153
+15,7.225,C,missing,3,female,0,0,2667
+22,29,S,missing,2,female,1,1,248738
+42,26.55,S,D22,1,male,0,0,110489
+25,7.25,S,missing,3,male,0,0,374887
+23,8.6625,S,missing,3,female,0,0,315085
+20,9.225,S,missing,3,male,0,0,6563
+27,14.4542,C,missing,3,male,1,0,2659
+28,7.7208,Q,missing,3,female,0,0,334915
+70,10.5,S,missing,2,male,0,0,C.A. 24580
+20.5,7.25,S,missing,3,male,0,0,A/5 21173
+9,15.9,S,missing,3,male,1,1,C.A. 37671
+30,7.2292,C,missing,3,male,0,0,2685
+17,7.925,S,missing,3,female,4,2,3101281
+28,15.1,S,missing,3,male,0,0,C.A. 6212
+28,13,S,missing,2,male,0,0,244373
+21,7.8208,Q,missing,3,male,0,0,330920
+1,20.575,S,missing,3,male,1,2,C.A. 2315
+30,26,S,C106,1,male,0,0,110469
+45,26.55,S,missing,1,male,0,0,111428
+19,15.7417,C,missing,3,female,1,1,2653
+8,29.125,Q,missing,3,male,4,1,382652
+30,7.25,S,missing,3,male,0,0,C 7076
+30.5,8.05,S,missing,3,male,0,0,364499
+0.8333,29,S,missing,2,male,0,2,248738
+29,7.875,S,missing,3,male,0,0,315082
+36,512.3292,C,B51 B53 B55,1,male,0,1,PC 17755
+28,7.225,C,missing,3,male,0,0,2631
+29,15.2458,C,missing,3,female,0,2,2650
+22,8.05,S,missing,3,male,0,0,SC/A4 23568
+28,7.8958,S,missing,3,male,0,0,349218
+30,13,S,missing,2,male,0,0,250653
+26,13,S,missing,2,male,0,0,248659
+28,8.05,S,missing,3,male,0,0,SOTON/OQ 392086
