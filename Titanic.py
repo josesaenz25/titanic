@@ -56,7 +56,8 @@ st.markdown("""
             text-align: center;
         '>
             <h2 style='color: #062C5F; font-size: 50px;'>🚢 Titanic Survival Prediction</h2>
-            <p style='color: #0033A0; font-size: 18px;'>Modelado con KNN, Logistic Regression y Decision Tree usando diferentes esquemas de preprocesamiento.</p>
+            <p style='color: #0033A0; font-size: 15px;'>Modelado con KNN, Logistic Regression y Decision Tree usando diferentes esquemas de preprocesamiento.</p>
+            <h2 style='color: #0033A0; font-size: 20px;'>Alumno: Granados Saenz José de Jesús</h2>
         </div>
     """, unsafe_allow_html=True)
 
